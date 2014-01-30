@@ -1,0 +1,5 @@
+[
+    // Selections
+    { "caption": "Selection: Invert", "command": "invert_selection" },
+    { "caption": "Selection: Split into Lines", "command": "split_selection_into_lines" }
+]
